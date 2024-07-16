@@ -2,8 +2,9 @@
 
 
 ## Projects
-- ###⚡ *Mini Projects*
-      - Todo List with **Flask**
+### ⚡ *Mini Projects*
+
+ - ⇶ Todo List with **Flask** 
   -------------------------------------------------------
 
 - 🌱 I’m currently learning **Machine Learning**
