@@ -4,7 +4,7 @@
 ## Projects
 ### ⚡ *Mini Projects*
 
- - ⇶ Todo List with **Flask** 
+ - ⇶ Todo List with **Flask** [🔰](https://github.com/Har8899/Todo-app-with-Flask)
   -------------------------------------------------------
 
 - 🌱 I’m currently learning **Machine Learning**
