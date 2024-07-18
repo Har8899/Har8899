@@ -18,6 +18,7 @@
 -  *Unsupervised Learning*
     - 🚦 Day 5 | Clustering Models
     - 👨‍🏫 Day 6 | Association Models
+- *Reinforcement Learning*
 
 
 
