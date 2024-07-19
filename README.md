@@ -21,4 +21,12 @@
 - *Reinforcement Learning*
 
 
-
+- Day 7 | Data Analysis Project 1
+- Day 8 | Machine Learning Project 1
+- Day 9 | Learning Deep Learning
+- Day 10 | learning Deep Learning 
+- Day 11 | Learn NLP 
+- Day 12 | Learning NLP
+- Day 13 | Start Mini Project with NLP
+- Day 14 | SQL
+- Day 15 | Power BI
