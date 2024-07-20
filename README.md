@@ -21,7 +21,7 @@
 - *Reinforcement Learning*
 
 
-- Day 7 | Data Analysis Project 1
+- Day 7 | ✅ Data Analysis Project 1 👉 [Link](https://github.com/Har8899/Students-Scores)
 - Day 8 | Machine Learning Project 1
 - Day 9 | Learning Deep Learning
 - Day 10 | learning Deep Learning 
