@@ -19,7 +19,8 @@
     - 🚦 Day 5 | Clustering Models
     - 👨‍🏫 Day 6 | Association Models
 - *Reinforcement Learning*
-
+    - Eclat
+    - Apriori
 
 - Day 7 | ✅ Data Analysis Project 1 👉 [Link](https://github.com/Har8899/Students-Scores)
 - Day 8 | Machine Learning Project 1
