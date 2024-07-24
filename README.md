@@ -1,11 +1,21 @@
 ## Hi there 👋
 
 
-## Projects
+## Projects 📂
 ### ⚡ *Mini Projects*
 
- - ⇶ Todo List with **Flask** [🔰](https://github.com/Har8899/Todo-app-with-Flask)
+-  Todo List with **Flask** [🔰](https://github.com/Har8899/Todo-app-with-Flask)
   -------------------------------------------------------
+  ## Skills
+
+  
+IDEs I Have Worked on: 
+
+<img src="IDE/jupyternotebook.jpeg" width="50" height="50"/>  <img src="IDE/vsscode.png" width="50" height="50"/>  <img src="IDE/pycharm.jpeg" width="50" height="50"/> 
+
+
+
+  
 
 - 🌱 I’m currently learning **Machine Learning**
 - ✨ I'm starting a **15 day challenge** For myself where I will revise everything I've learned so Far
