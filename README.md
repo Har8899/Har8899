@@ -12,6 +12,10 @@
 Languages:
 
 <img src="Languages/python.png" width="50" height="50"/>  <img src="Languages/Html.png" width="50" height="50"/>   <img src="Languages/CSS.jpg" width="50" height="50"/>   <img src="Languages/javascript.png" width="50" height="50"/>   <img src="Languages/R.jpeg" width="100" height="50"/>
+
+Python Libraries:
+
+<img src="library/numpy.png" width="100" height="50"/>  <img src="library/pandas.png" width="120" height="50"/> <img src="library/matplotlib.jpeg" width="100" height="50"/>
   
 IDEs I Have Worked on: 
 
