@@ -135,7 +135,7 @@ IDEs I Have Worked on:
     - Python DSA
         - Linked Lists
         - Trees
-- 11/08/24 - Mon
+- 11/08/24 - Sun
     - Quatitative Aptitude
     - Logical Reasoning
         - Analytical Reasoning
@@ -152,7 +152,7 @@ IDEs I Have Worked on:
         - Extra
     - Python DSA
         - Hashing
-- 13/08/24 - Mon
+- 13/08/24 - Tue
     - Quatitative Aptitude
     - Logical Reasoning
         - Statements
