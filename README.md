@@ -30,13 +30,13 @@ IDEs I Have Worked on:
 
 - 01/08/24 - Thu
     - Quatitative Aptitude
-        - Aptitude Basics
-        - Number System
-        - LCM & HCF Theory
+        - Aptitude Basics ✅
+        - Number System ✅
+        - LCM & HCF Theory ✅
     - Logical Reasoning
-        - Series
+        - Series ✅
     - Verbal reasoning
-        - Grammer
+        - Grammer ✅
     - Python Basic
 - 02/08/24 - Fri
     - Quatitative Aptitude
