@@ -7,7 +7,7 @@ I am currently pursuing a career in Data science, having completed a diploma spe
 ### ⚡ *Mini Projects*
 
 -  Todo List with **Flask** [🔰](https://github.com/Har8899/Todo-app-with-Flask)
-  -------------------------------------------------------
+  
   ## Skills
 
 
